@@ -1,0 +1,251 @@
+AGGREGATED OVER LAST 24 HOURS:
+System memory usage:
+  SOff/Norm: 10 samples:
+    Cached: 288MB min, 352MB avg, 618MB max
+    Free: 61MB min, 95MB avg, 197MB max
+    ZRam: 22MB min, 51MB avg, 79MB max
+    Kernel: 65MB min, 78MB avg, 84MB max
+    Native: 25MB min, 27MB avg, 31MB max
+       Mod : 3 samples:
+    Cached: 265MB min, 307MB avg, 331MB max
+    Free: 72MB min, 76MB avg, 79MB max
+    ZRam: 45MB min, 60MB avg, 67MB max
+    Kernel: 59MB min, 75MB avg, 83MB max
+    Native: 24MB min, 28MB avg, 31MB max
+       Low : 1 samples:
+    Cached: 220MB min, 220MB avg, 220MB max
+    Free: 107MB min, 107MB avg, 107MB max
+    ZRam: 45MB min, 45MB avg, 45MB max
+    Kernel: 56MB min, 56MB avg, 56MB max
+    Native: 25MB min, 25MB avg, 25MB max
+  SOn /Norm: 15 samples:
+    Cached: 216MB min, 340MB avg, 438MB max
+    Free: 51MB min, 91MB avg, 151MB max
+    ZRam: 14MB min, 45MB avg, 73MB max
+    Kernel: 60MB min, 76MB avg, 91MB max
+    Native: 22MB min, 26MB avg, 31MB max
+       Mod : 1 samples:
+    Cached: 329MB min, 329MB avg, 329MB max
+    Free: 76MB min, 76MB avg, 76MB max
+    ZRam: 24MB min, 24MB avg, 24MB max
+    Kernel: 81MB min, 81MB avg, 81MB max
+    Native: 25MB min, 25MB avg, 25MB max
+       Low : 1 samples:
+    Cached: 305MB min, 305MB avg, 305MB max
+    Free: 708MB min, 708MB avg, 708MB max
+    ZRam: 41MB min, 41MB avg, 41MB max
+    Kernel: 62MB min, 62MB avg, 62MB max
+    Native: 22MB min, 22MB avg, 22MB max
+
+Per-Package Stats:
+  * com.dekay.olvido / u0a220 / v1:
+      * com.dekay.olvido / u0a220 / v1:
+               TOTAL: 2,3% (9,8MB-319MB-589MB/8,0MB-317MB-587MB over 11)
+                 Top: 2,3% (9,8MB-319MB-589MB/8,0MB-317MB-587MB over 11)
+          (Last Act): 33% (10MB-278MB-572MB/8,5MB-277MB-570MB over 26)
+            (Cached): 65% (154MB-228MB-296MB/153MB-226MB-294MB over 66)
+
+Summary:
+  * com.dekay.olvido / u0a220 / v1:
+           TOTAL: 2,3% (9,8MB-319MB-589MB/8,0MB-317MB-587MB over 11)
+             Top: 2,3% (9,8MB-319MB-589MB/8,0MB-317MB-587MB over 11)
+      (Last Act): 33% (10MB-278MB-572MB/8,5MB-277MB-570MB over 26)
+        (Cached): 65% (154MB-228MB-296MB/153MB-226MB-294MB over 66)
+
+Run time Stats:
+  SOff/Norm: +4h16m20s922ms
+       Mod : +13m48s757ms
+       Low : +359ms
+       Crit: +47ms
+  SOn /Norm: +1h36m48s959ms
+       Mod : +5m46s184ms
+       Low : +3s408ms
+       Crit: +28s785ms
+      TOTAL: +6h13m17s421ms
+
+Memory usage:
+  Kernel : 77MB (183 samples)
+  Native : 26MB (183 samples)
+  Persist: 155MB (893 samples)
+  Top    : 79MB (2783 samples)
+  ImpFg  : 104MB (6586 samples)
+  ImpBg  : 45MB (3374 samples)
+  Service: 161MB (10747 samples)
+  Receivr: 305KB (7463 samples)
+  Home   : 34MB (1477 samples)
+  LastAct: 109MB (1564 samples)
+  CchAct : 267MB (1525 samples)
+  CchCAct: 17MB (257 samples)
+  CchEmty: 86MB (4029 samples)
+  Cached : 347MB (183 samples)
+  Free   : 93MB (183 samples)
+  Z-Ram   : 50MB (183 samples)
+  TOTAL  : 1,6GB
+  ServRst: 53KB (2972 samples)
+
+          Start time: 2016-02-05 23:01:21
+  Total elapsed time: +1d1h9m34s441ms (partial) libart.so
+
+AGGREGATED OVER LAST 3 HOURS:
+System memory usage:
+  SOff/Norm: 1 samples:
+    Cached: 618MB min, 618MB avg, 618MB max
+    Free: 197MB min, 197MB avg, 197MB max
+    ZRam: 40MB min, 40MB avg, 40MB max
+    Kernel: 73MB min, 73MB avg, 73MB max
+    Native: 26MB min, 26MB avg, 26MB max
+       Mod : 1 samples:
+    Cached: 265MB min, 265MB avg, 265MB max
+    Free: 76MB min, 76MB avg, 76MB max
+    ZRam: 45MB min, 45MB avg, 45MB max
+    Kernel: 59MB min, 59MB avg, 59MB max
+    Native: 24MB min, 24MB avg, 24MB max
+       Low : 1 samples:
+    Cached: 220MB min, 220MB avg, 220MB max
+    Free: 107MB min, 107MB avg, 107MB max
+    ZRam: 45MB min, 45MB avg, 45MB max
+    Kernel: 56MB min, 56MB avg, 56MB max
+    Native: 25MB min, 25MB avg, 25MB max
+  SOn /Norm: 2 samples:
+    Cached: 216MB min, 261MB avg, 306MB max
+    Free: 74MB min, 101MB avg, 128MB max
+    ZRam: 47MB min, 47MB avg, 48MB max
+    Kernel: 62MB min, 67MB avg, 73MB max
+    Native: 22MB min, 23MB avg, 25MB max
+       Low : 1 samples:
+    Cached: 305MB min, 305MB avg, 305MB max
+    Free: 708MB min, 708MB avg, 708MB max
+    ZRam: 41MB min, 41MB avg, 41MB max
+    Kernel: 62MB min, 62MB avg, 62MB max
+    Native: 22MB min, 22MB avg, 22MB max
+
+Per-Package Stats:
+  * com.dekay.olvido / u0a220 / v1:
+      * com.dekay.olvido / u0a220 / v1:
+               TOTAL: 19% (9,8MB-330MB-589MB/8,0MB-328MB-587MB over 10)
+                 Top: 19% (9,8MB-330MB-589MB/8,0MB-328MB-587MB over 10)
+          (Last Act): 26% (10MB-221MB-572MB/8,5MB-220MB-570MB over 5)
+            (Cached): 54% (227MB-227MB-227MB/226MB-226MB-226MB over 4)
+
+Summary:
+  * com.dekay.olvido / u0a220 / v1:
+           TOTAL: 19% (9,8MB-330MB-589MB/8,0MB-328MB-587MB over 10)
+             Top: 19% (9,8MB-330MB-589MB/8,0MB-328MB-587MB over 10)
+      (Last Act): 26% (10MB-221MB-572MB/8,5MB-220MB-570MB over 5)
+        (Cached): 54% (227MB-227MB-227MB/226MB-226MB-226MB over 4)
+
+Run time Stats:
+  SOff/Norm: +17m42s89ms
+       Mod : +3m11s185ms
+       Low : +307ms
+       Crit: +47ms
+  SOn /Norm: +18m28s934ms
+       Mod : +2m20s427ms
+       Low : +3s402ms
+       Crit: +28s785ms
+      TOTAL: +42m15s176ms
+
+Memory usage:
+  Kernel : 64MB (48 samples)
+  Native : 24MB (48 samples)
+  Persist: 159MB (152 samples)
+  Top    : 146MB (256 samples)
+  ImpFg  : 98MB (858 samples)
+  ImpBg  : 47MB (393 samples)
+  Service: 141MB (1392 samples)
+  Receivr: 604KB (1157 samples)
+  Home   : 52MB (223 samples)
+  LastAct: 28MB (69 samples)
+  CchAct : 207MB (110 samples)
+  CchCAct: 21MB (70 samples)
+  CchEmty: 88MB (740 samples)
+  Cached : 322MB (48 samples)
+  Free   : 215MB (48 samples)
+  Z-Ram   : 44MB (48 samples)
+  TOTAL  : 1,6GB
+  ServRst: 235KB (250 samples)
+
+          Start time: 2016-02-06 22:06:42
+  Total elapsed time: +2h4m14s247ms (partial) libart.so
+
+CURRENT STATS:
+System memory usage:
+  SOff/Norm: 1 samples:
+    Cached: 618MB min, 618MB avg, 618MB max
+    Free: 197MB min, 197MB avg, 197MB max
+    ZRam: 40MB min, 40MB avg, 40MB max
+    Kernel: 73MB min, 73MB avg, 73MB max
+    Native: 26MB min, 26MB avg, 26MB max
+       Mod : 1 samples:
+    Cached: 265MB min, 265MB avg, 265MB max
+    Free: 76MB min, 76MB avg, 76MB max
+    ZRam: 45MB min, 45MB avg, 45MB max
+    Kernel: 59MB min, 59MB avg, 59MB max
+    Native: 24MB min, 24MB avg, 24MB max
+       Low : 1 samples:
+    Cached: 220MB min, 220MB avg, 220MB max
+    Free: 107MB min, 107MB avg, 107MB max
+    ZRam: 45MB min, 45MB avg, 45MB max
+    Kernel: 56MB min, 56MB avg, 56MB max
+    Native: 25MB min, 25MB avg, 25MB max
+  SOn /Norm: 2 samples:
+    Cached: 216MB min, 261MB avg, 306MB max
+    Free: 74MB min, 101MB avg, 128MB max
+    ZRam: 47MB min, 47MB avg, 48MB max
+    Kernel: 62MB min, 67MB avg, 73MB max
+    Native: 22MB min, 23MB avg, 25MB max
+       Low : 1 samples:
+    Cached: 305MB min, 305MB avg, 305MB max
+    Free: 708MB min, 708MB avg, 708MB max
+    ZRam: 41MB min, 41MB avg, 41MB max
+    Kernel: 62MB min, 62MB avg, 62MB max
+    Native: 22MB min, 22MB avg, 22MB max
+
+Per-Package Stats:
+  * com.dekay.olvido / u0a220 / v1:
+      * com.dekay.olvido / u0a220 / v1:
+               TOTAL: 19% (9,8MB-330MB-589MB/8,0MB-328MB-587MB over 10)
+                 Top: 19% (9,8MB-330MB-589MB/8,0MB-328MB-587MB over 10)
+          (Last Act): 26% (10MB-221MB-572MB/8,5MB-220MB-570MB over 5)
+            (Cached): 54% (227MB-227MB-227MB/226MB-226MB-226MB over 4)
+
+Summary:
+  * com.dekay.olvido / u0a220 / v1:
+           TOTAL: 19% (9,8MB-330MB-589MB/8,0MB-328MB-587MB over 10)
+             Top: 19% (9,8MB-330MB-589MB/8,0MB-328MB-587MB over 10)
+      (Last Act): 26% (10MB-221MB-572MB/8,5MB-220MB-570MB over 5)
+        (Cached): 54% (227MB-227MB-227MB/226MB-226MB-226MB over 4)
+
+Run time Stats:
+  SOff/Norm: +17m41s917ms (running)
+       Mod : +3m11s185ms
+       Low : +307ms
+       Crit: +47ms
+  SOn /Norm: +18m28s934ms
+       Mod : +2m20s427ms
+       Low : +3s402ms
+       Crit: +28s785ms
+      TOTAL: +42m15s4ms
+
+Memory usage:
+  Kernel : 64MB (48 samples)
+  Native : 24MB (48 samples)
+  Persist: 159MB (152 samples)
+  Top    : 146MB (256 samples)
+  ImpFg  : 98MB (858 samples)
+  ImpBg  : 47MB (393 samples)
+  Service: 141MB (1392 samples)
+  Receivr: 604KB (1157 samples)
+  Home   : 52MB (223 samples)
+  LastAct: 28MB (69 samples)
+  CchAct : 207MB (110 samples)
+  CchCAct: 21MB (70 samples)
+  CchEmty: 88MB (740 samples)
+  Cached : 322MB (48 samples)
+  Free   : 215MB (48 samples)
+  Z-Ram   : 44MB (48 samples)
+  TOTAL  : 1,6GB
+  ServRst: 235KB (250 samples)
+
+          Start time: 2016-02-06 22:06:42
+  Total elapsed time: +2h4m14s358ms (partial) libart.so

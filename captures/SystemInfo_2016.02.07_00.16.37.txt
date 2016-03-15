@@ -1,0 +1,34 @@
+Applications Memory Usage (kB):
+Uptime: 40777365 Realtime: 170430857
+
+** MEMINFO in pid 22984 [com.dekay.olvido] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap    38716    35792     2860    20360   158824    60791      252
+  Dalvik Heap     1928     1880        0       56     5878     1861     4017
+ Dalvik Other      336      336        0        0                           
+        Stack      156      156        0        0                           
+    Other dev    38705    38616        4        0                           
+     .so mmap     1370      312      440     1228                           
+    .apk mmap      114        0        0        0                           
+    .dex mmap     2468        0     2464        0                           
+    code mmap      920        0      272        0                           
+   image mmap     1949      536      724        0                           
+   Other mmap       16        8        0        4                           
+      Unknown      144      144        0       56                           
+        TOTAL    86822    77780     6764    21704   164702    62652     4269
+ 
+ Objects
+               Views:        5         ViewRootImpl:        1
+         AppContexts:        3           Activities:        1
+              Assets:        4        AssetManagers:        4
+       Local Binders:       13        Proxy Binders:       14
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+Uptime: 40777746 Realtime now=170431238

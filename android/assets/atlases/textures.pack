@@ -1,0 +1,161 @@
+
+textures.pack.png
+size: 2000,2000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_texture
+  rotate: false
+  xy: 2, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+ball_texture_blink
+  rotate: false
+  xy: 1882, 1924
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+game_background
+  rotate: false
+  xy: 2, 76
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+game_over_menu_button
+  rotate: false
+  xy: 1340, 1204
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+game_over_restart_button
+  rotate: false
+  xy: 1626, 1490
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+indicator_ball
+  rotate: false
+  xy: 1340, 1168
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+menu_circle
+  rotate: false
+  xy: 1084, 1456
+  size: 540, 540
+  orig: 540, 540
+  offset: 0, 0
+  index: -1
+pause_button_back
+  rotate: false
+  xy: 1084, 1200
+  size: 254, 254
+  orig: 254, 254
+  offset: 0, 0
+  index: -1
+pause_button_menu
+  rotate: false
+  xy: 1626, 1742
+  size: 254, 254
+  orig: 254, 254
+  offset: 0, 0
+  index: -1
+pause_button_restart
+  rotate: false
+  xy: 1084, 944
+  size: 254, 254
+  orig: 254, 254
+  offset: 0, 0
+  index: -1
+pause_circle
+  rotate: false
+  xy: 1084, 692
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+
+textures.pack2.png
+size: 2000,2000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+menu_background
+  rotate: false
+  xy: 2, 2
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+
+textures.pack3.png
+size: 2000,2000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+menu_highscore
+  rotate: false
+  xy: 2, 2
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+
+textures.pack4.png
+size: 2000,2000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+menu_settings
+  rotate: false
+  xy: 2, 2
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+
+textures.pack5.png
+size: 2000,2000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+menu_shop
+  rotate: false
+  xy: 2, 2
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+
+textures.pack6.png
+size: 2000,2000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pause_background
+  rotate: false
+  xy: 2, 2
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+
+textures.pack7.png
+size: 2000,2000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+game_over_background
+  rotate: false
+  xy: 2, 2
+  size: 1080, 700
+  orig: 1080, 700
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+TASK com.dekay.olvido id=632
+  ACTIVITY com.dekay.olvido/.AndroidLauncher eda9af2 pid=22984
+    Local Activity 93fc273 State:
+      mResumed=false mStopped=true mFinished=false
+      mLoadersStarted=false
+      mChangingConfigurations=false
+      mCurrentConfig={0 1.0 255mcc1mnc ru_RU ldltr sw360dp w360dp h615dp 480dpi nrml long port finger -keyb/v/h -nav/h s.28}
+    FragmentManager misc state:
+      mActivity=com.dekay.olvido.AndroidLauncher@93fc273
+      mContainer=android.app.Activity$1@d8c20bc
+      mCurState=3 mStateSaved=true mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=40538582 (423344 ms ago)
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{40b6845 V.E..... R.....I. 0,0-1080,1920}
+        android.widget.LinearLayout{1cfe9b9a V.E..... ......I. 0,0-1080,1920}
+          android.view.ViewStub{1eed5ccb G.E..... ......I. 0,0-0,0 #102036e}
+          android.widget.FrameLayout{d588ca8 V.E..... ......I. 0,0-1080,1920 #1020002 android:id/content}
+            com.badlogic.gdx.backends.android.surfaceview.GLSurfaceView20{1b7f43c1 VFE..... .F....I. 0,0-1080,1920}
+    Looper (main, tid 1) {241ad766}
+now=40961931
+      (Total messages: 0, idling=false, quitting=false)
